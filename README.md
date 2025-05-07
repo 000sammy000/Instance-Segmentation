@@ -33,4 +33,4 @@ Run all cells in the notebook to install dependencies, train, and evaluate the m
 AP50    0.3666  (public)/ 0.3962 (private)
 Backbone	Mask R-CNN with MobileNetV3-FPN  
 Training Epochs	5
-Dataset	
+Dataset	Raw .tif images with 4-class instance masks. Preprocessed to uniform resolution before training. 188 training, 21 validation samples.
