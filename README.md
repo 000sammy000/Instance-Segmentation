@@ -26,3 +26,7 @@ Run all cells in the notebook to install dependencies, train, and evaluate the m
 ## Performance snapshot
 
 ```
+AP50    0.3666  (public)/ 0.3962 (private)
+Backbone	Mask R-CNN with MobileNetV3-FPN  
+Training Epochs	5
+Dataset	
